@@ -28,7 +28,12 @@ else:                           # Nhập đúng
 print(f'Tiền điện bạn phải trả là: {cash}k VND')
 
 # Câu 1: Nhập một số từ bàn phím và in ra số đó.
+number = input('Nhập 1 số: ')
+print('Số đó là:', number)
+
 # Câu 2: Viết chương trình kiểm tra nhập vào 1 số và kiểm tra số đó là chẵn hay lẻ.
+
+
 # Câu 3: Viết chương trình tính tổng, hiệu, tích, thương của hai số nhập từ bàn phím.
 # Câu 4: Viết chương trình nhập vào 1 số và kiểm tra số đó có phải số nguyên tố hay không. (nâng cao)
 # Câu 5: Viết chương trình chuyển đổi từ USD sang VND (số tiền được nhập từ bàn phím).
