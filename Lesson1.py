@@ -16,7 +16,7 @@ age = input('Hãy nhập tuổi của bạn: ')
 print('Họ tên: ' + name)
     # Cách 2: Dùng dấu ,
 print('Tuổi:', age)
-    # Cách 3: Dùng f - truyền dữ liệu v+ào string
+    # Cách 3: Dùng f - truyền dữ liệu vào string
 print('Tôi tên là ' + name + ' đang ' + age + ' tuổi')
 print('Tôi tên là', name, 'hiện đang', age, 'tuổi')
 print(f'Tôi tên là {name} hiện đang {age} tuổi')

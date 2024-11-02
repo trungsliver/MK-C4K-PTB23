@@ -33,10 +33,10 @@ print('Số đó là:', number)
 
 # Câu 2: Viết chương trình kiểm tra nhập vào 1 số và kiểm tra số đó là chẵn hay lẻ.
 
-
 # Câu 3: Viết chương trình tính tổng, hiệu, tích, thương của hai số nhập từ bàn phím.
+
 # Câu 4: Viết chương trình nhập vào 1 số và kiểm tra số đó có phải số nguyên tố hay không. (nâng cao)
+
 # Câu 5: Viết chương trình chuyển đổi từ USD sang VND (số tiền được nhập từ bàn phím).
+
 # Câu 6: Viết chương trình nhập số điểm của 3 bạn học sinh, in ra màn hình bạn có điểm thấp nhất và bạn có điểm cao nhất.
-
-
