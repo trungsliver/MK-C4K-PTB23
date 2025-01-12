@@ -244,6 +244,6 @@ print("Tên viết hoa toàn bộ:", uppercase_name)
 lowercase_name = full_name.lower()
 print("Tên viết thường toàn bộ:", lowercase_name)
 
-    # Yêu cầu 1: Chuyển đổi chuỗi ký tự tên thành chuỗi ký tự viết hoa các chữ cái đầu
+    # Yêu cầu 3: Chuyển đổi chuỗi ký tự tên thành chuỗi ký tự viết hoa các chữ cái đầu
 title_case_name = full_name.title()
 print("Tên viết hoa các chữ cái đầu:", title_case_name)
